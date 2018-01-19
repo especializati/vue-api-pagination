@@ -6,6 +6,7 @@
 ## Features
 
 - Vue 2
+- Vue Resource (https://github.com/pagekit/vue-resource/)
 - Bootstrap v.4 (https://bootstrap-vue.js.org/)
 - Laravel 5.5 API (https://github.com/especializati/webservice-laravel-5-5)
 
