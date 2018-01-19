@@ -1,4 +1,4 @@
-# vue-api-pagination
+# Vue Api Pagination
 
 > Example Pagination Vue + API Laravel
 
