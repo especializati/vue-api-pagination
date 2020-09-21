@@ -60,6 +60,8 @@
     },
     methods : {
       changePage(page) {
+        // Atualiza a pagina atual
+        this.pagination.current_page = page
         // Dispara o evento @paginate do Component Pai
         this.$emit('paginate', page);
       }
